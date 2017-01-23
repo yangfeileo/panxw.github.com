@@ -4,13 +4,13 @@ permalink: /posts/:title.html
 excerpt_separator: "<!-- more -->"
 
 github: yangfeileo	
-author: "杨飞"
+author: "leoyang"
 email: 
-name: "杨飞个人博客"
+name: "个人博客"
 url: 
 domain: 
 all_categories: [
-[".net", ".net开发","/posts/android.html"], 
+[".net", ".net开发","/posts/.net.html"], 
 ["program", "软件编程","/posts/program.html"],
 ["web", "Web建站","/posts/web.html"], 
 ["linux", "Linux相关","/posts/linux.html"],
