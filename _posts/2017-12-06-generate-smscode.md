@@ -1,12 +1,16 @@
 ---
 layout: post
 category: "read"
-title:  "个人博客"
+title:  "记一次代码学习记录"
 tags: [阅读,人生]
 ---
 
 # 记一次代码学习记录
-public int ComputeTotp(/*HashAlgorithm hashAlgorithm, ulong timestepNumber, string modifier = null*/)
+
+        场景：生成6位验证码
+
+
+        public int ComputeTotp(/*HashAlgorithm hashAlgorithm, ulong timestepNumber, string modifier = null*/)
         {
             var hashAlgorithm = new HMACSHA1();
             var timestepNumber = (ulong)DateTime.UtcNow.Ticks;
