@@ -9,3 +9,5 @@ tags: [阅读,人生]
 参考地址：
 https://github.com/panxw/panxw.github.com
 
+<img src="/assets/github-login.jpg" width="100"/>
+

@@ -1,6 +1,6 @@
 ---
 layout: post
-category: "read"
+category: "net"
 title:  "记一次代码学习记录"
 tags: [阅读,人生]
 ---
