@@ -1,5 +1,4 @@
 ---
 layout: default
-title: "关于我：AboutMe"
+title: "广告"
 ---
-<a> 666 </a>
